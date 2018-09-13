@@ -1,0 +1,6 @@
+pendek,panjang
+panjang,panjang
+pendek,pendek
+panjang,sedang
+panjang,kuning
+pendek,sedang
