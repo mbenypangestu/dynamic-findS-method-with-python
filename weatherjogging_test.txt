@@ -1,0 +1,3 @@
+Sunny,Warm,Normal,Strong,Warm,Same
+Rainy,Cold,High,Weak,Cool,Change
+Sunny,Cold,High,Weak,Cool,Change

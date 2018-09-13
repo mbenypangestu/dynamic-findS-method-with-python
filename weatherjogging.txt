@@ -1,0 +1,4 @@
+Jogging,NoJogging
+Sunny,Warm,Normal,Strong,Warm,Same,Cold,High,Weak,Cool,Change
+Sunny,Warm,Normal,Strong,Warm,Same,Jogging
+Sunny,Cold,High,Weak,Cool,Change,Jogging
