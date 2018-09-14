@@ -1,8 +1,8 @@
 import random
 
 def main():
-    arr_data    = readFile("pisangapel.txt", "r")
-    data_test   = readFile("pisangapel_test.txt", "r")
+    arr_data    = readFile("hipertensi.txt", "r")
+    data_test   = readFile("hipertensi_test.txt", "r")
 
     result_array    = setDataToArray(arr_data)
     arr_datatest    = setTestingToArray(data_test)
@@ -90,13 +90,15 @@ def analyzeData(targets, final_hypothesis, data_test):
         value_available = False
         for target in targets:
             if status_target[target] == True:
-                print(target)
+                print(target, "| ", end='')
                 value_available = True
-                break
-        if value_available == False:
-            for target in targets:
-                print("Bukan", target, " ", end='')
-            print()
+            else :
+                print("Bukan ", target, "| ", end='')
+        print()
+        # if value_available == False:
+        #     for target in targets:
+        #         print("Bukan", target, " ", end='')
+        #     print()
 
 
 if __name__ == "__main__":

@@ -1,0 +1,7 @@
+Hipertensi,TidakHipertensi
+Umur,Kegemukan
+Muda,Gemuk,TidakHipertensi
+Muda,SangatGemuk,TidakHipertensi
+ParuhBaya,Gemuk,TidakHipertensi
+ParuhBaya,TerlaluGemuk,Hipertensi
+Tua,TerlaluGemuk,Hipertensi

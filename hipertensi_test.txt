@@ -1,0 +1,5 @@
+Muda,Gemuk
+Muda,SangatGemuk
+ParuhBaya,Gemuk
+ParuhBaya,TerlaluGemuk
+Tua,TerlaluGemuk
